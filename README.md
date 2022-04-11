@@ -8,4 +8,4 @@ You can view the final tree visualization [here]()
 if referring to this work pleas cite
 > The SARS-CoV-2 lineage BA.2 has independently acquired on multiple occasions short insertions at the spike N-terminal domain RIR1 site
 >
->  Greco and Gerdol, 2022
+>  Greco and Gerdol, 2022 (to be submitted, link incoming)
